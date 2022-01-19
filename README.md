@@ -1,7 +1,7 @@
-### Hi there, I'm Josh 👋
+### Hi there, I'm Josh 🎷💻🧪
 
 
-- 🔭 I’m currently working on building an Instagram clone
+- 🔭 I’m currently working on an Instagram clone
 - 🌱 ...and also currently learning TypeScript 
 - 👯 I’m looking for a front-end or full stack dev role in Wellington
 - 🤔 I’m looking for help with improving the safety and performance of my code
